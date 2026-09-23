@@ -8,11 +8,13 @@
 
 
 
-[
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=650&lines=🎮+Player+1+has+entered+the+game;Solving+one+problem+every+single+day;Consistency+%3E+Motivation;Currently+leveling+up+in+DSA+🚀)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=650&lines=Player+1+has+entered+the+game;Solving+one+problem+every+day;Consistency+over+motivation;Leveling+up+in+DSA" alt="Typing SVG" />
 
-](https://github.com/ananyapatil2026)
+</div>
+
+
 
 
 
