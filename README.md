@@ -29,13 +29,14 @@
 ## 🎮 PLAYER CARD
 
 ```
-╔══════════════════════════════════════════╗
-║  NAME    : Ananya A Police Patil         ║
-║  CLASS   : Aspiring Software Developer   ║
-║  WEAPON  : Python                        ║
-║  QUEST   : Become placement-ready        ║
-║  STATUS  : Leveling up daily             ║
-╚══════════════════════════════════════════╝
++------------------------------------------+
+|  NAME    : Ananya A Police Patil         |
+|  CLASS   : Aspiring Software Developer   |
+|  WEAPON  : Python                        |
+|  QUEST   : Become placement-ready        |
+|  STATUS  : Leveling up daily             |
++------------------------------------------+
+
 ```
 
 🎓 CSE @ JSSSTU
@@ -46,11 +47,12 @@
 ## ⚔️ SKILL TREE  *(self-rated, updating as I grow)*
 
 ```
-Python        ██████░░░░  Lv. 6
+Python          ██████░░░░  Lv. 6
 Problem Solving █████░░░░░  Lv. 5
-DSA           ███░░░░░░░  Lv. 3  ← currently grinding
-SQL / DBMS    ██░░░░░░░░  Lv. 2  ← unlocking soon
-Git & GitHub  ████░░░░░░  Lv. 4
+DSA             ███░░░░░░░  Lv. 3  ← currently grinding
+SQL / DBMS      ██░░░░░░░░  Lv. 2  ← unlocking soon
+Git & GitHub    ████░░░░░░  Lv. 4
+
 ```
 
 ---
