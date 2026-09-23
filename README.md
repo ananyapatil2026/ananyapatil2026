@@ -30,11 +30,11 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║  NAME    : Ananya A Police Patil                  ║
+║  NAME    : Ananya A Police Patil         ║
 ║  CLASS   : Aspiring Software Developer   ║
-║  WEAPON  : Python 🐍                     ║
+║  WEAPON  : Python                        ║
 ║  QUEST   : Become placement-ready        ║
-║  STATUS  : Leveling up daily ⚡          ║
+║  STATUS  : Leveling up daily             ║
 ╚══════════════════════════════════════════╝
 ```
 
